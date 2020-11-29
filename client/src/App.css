@@ -1,0 +1,10 @@
+html, body, #root, .App {
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
